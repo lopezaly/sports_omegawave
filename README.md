@@ -7,10 +7,12 @@ The Omegawave device measures the Central Nervous (CNS) and Cardiac systems via 
 
 ### Analysis
 Exploratory Analyses were run to identify the mean, standard deviation, median, min, max, skew, kurtosis, and standard error of each variable. Next, a correlation matrix was developed to visually represent the relationship of each variable to one another. In this matrix, we see the deep red cells represent strong inverse correlations (-1), and dark blue cells represent strong correlations(+1).
+
 ![correlation matrix](https://github.com/lopezaly/sports_omegawave/blob/main/corr-matrix.png)
 
 ### Results
 Focusing on the relationship between RMSSD and Activity.of.sympathetic.regulatory.mechanisms, we identify a negative correlation, r= -0.69.
+
 ![RMSSD x Act.symp.reg](https://github.com/lopezaly/sports_omegawave/blob/main/rmssd%20x%20act.symp.reg.png)
 
 ### Discussion
